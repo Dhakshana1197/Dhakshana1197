@@ -150,3 +150,15 @@ if no==reverse:
     print("the number is palindrome")
 else:
     print("this is not palindraome")
+
+
+#fibnocci series
+f=0
+s=1
+count=1
+while count<=5:
+    t=f+s
+    print(t)
+    f=s
+    s=t
+    count+=1
