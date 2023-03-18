@@ -1,0 +1,14 @@
+## Merging letters from two words alternatively
+
+s1="dhakshana"
+s2="natarajan"
+output=""
+i=0
+while i<len(s1):
+    output=output+s1[i]
+    output=output+s2[i]
+    i+=1
+
+    
+print(output)
+dnhaatkasrhaajnaan
