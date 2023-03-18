@@ -71,3 +71,11 @@ enter the number32
 too little
 enter the number43
 wow super
+
+
+# Print 1 5 times
+
+count=0
+while count<5:
+    print(1)
+    count=count+1
