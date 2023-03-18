@@ -12,3 +12,11 @@ while i<len(s1):
     
 print(output)
 #output=dnhaatkasrhaajnaan
+
+# Middle letter should be capital
+
+name=input("Enter the name")
+Enter the name"rajarajan"
+mid=len(name)//2
+print(name[:mid]+name[mid].upper()+name[mid+1 :])
+o/p===>"rajaRajan"
