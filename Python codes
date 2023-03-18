@@ -134,3 +134,19 @@ while no>div:
     div=div+1
 else:
     print("this is prime number")
+
+
+#reverse of number matching
+no=input("enter the number ")
+reverse=""
+#print(reverse)
+i=len(no)-1
+while i>=0:
+    reverse=reverse+no[i]
+    i-=1
+
+print(reverse)
+if no==reverse:
+    print("the number is palindrome")
+else:
+    print("this is not palindraome")
