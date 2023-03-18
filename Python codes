@@ -122,3 +122,15 @@ while True:
         print("lease common multiplicatin",big)
         break
     big=big+1
+
+#prime number
+#not divisibl by any number
+no=int(input("enter the number"))
+div=2
+while no>div:
+    if no%div==0:
+        print("this is not prime number")
+        break
+    div=div+1
+else:
+    print("this is prime number")
