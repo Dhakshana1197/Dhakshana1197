@@ -101,3 +101,13 @@ while amount<=noofdays:
     amount=amount+1
     
 print(box)
+
+
+# to print vowels
+name=input("enter the name")
+length=len(name)
+i=0
+while i<length:
+    if name[i] in ["a","e","i","o","u"]:
+        print(name[i])
+    i=i+1
