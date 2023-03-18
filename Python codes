@@ -38,3 +38,15 @@ else:
     
 op===>2nd person got high mark
 
+## Nested if 
+
+total=int(input("enter your total"))
+==>enter your total400
+if total>300:
+    tamil=int(input("enter your tamil mark"))
+    if tamil>80:
+        print("very great")
+    else:
+        print("nice")
+ else:
+    print("ok thanks")
