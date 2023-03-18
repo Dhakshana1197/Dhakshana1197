@@ -50,3 +50,24 @@ if total>300:
         print("nice")
  else:
     print("ok thanks")
+    
+    
+ #iterative statements
+
+mind =43
+guess=0
+while guess!=mind:
+    guess=int(input("enter the number"))
+    if mind==guess:
+        print("wow super")
+    elif guess>mind:
+        print("too high")
+    else:
+        print("too little")
+
+op==>enter the number50
+too high
+enter the number32
+too little
+enter the number43
+wow super
