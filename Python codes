@@ -20,3 +20,21 @@ Enter the name"rajarajan"
 mid=len(name)//2
 print(name[:mid]+name[mid].upper()+name[mid+1 :])
 o/p===>"rajaRajan"
+
+
+# control flow statement 
+
+mark1=int(input("enter your mark"))
+enter your mark300
+mark2=int(input("enter your mark"))
+enter your mark400
+if mark1>mark2:
+    print("1st person gto high mark")
+elif mark2>mark1:
+    print("2nd person got high mark")
+else:
+    print("both got same marks")
+
+    
+op===>2nd person got high mark
+
