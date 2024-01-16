@@ -1,3 +1,46 @@
+NOV CLASS ATTENANCE 
+
+NOV 4/5 (sat & SUN)
+06/11/2023 -- NO CLASS
+07/11/2023--Overview of cloud & AWS EC2 creation
+01-1-2024 ---##NEWYEAR## No class
+02-1-2024 -- GIT Remote , Jenkins intro 
+03-1-2024 --##mentoring session##
+04-1-2024 --Jenkins ( Install jenkins,
+			Dashboard,
+			plungins,
+			create user,
+			security,
+			creation job,
+			Job run )
+05-01-2024
+			Jenkins(Create pipeline projects,
+			create and configure slave nodes,
+			create scripts and job run)
+			
+06-01-2024 ##SAT NO CLASS ##
+07-01-2024 ##SUN NO CLASS ##
+08-01-2024 --- JENKINS ( tOMCAT SERVER VM , 
+				USED TO DEPLOY THE ARTIFACTS TO QA,
+				HOW TO DOWNLOAD TOMCAT AND INSTALL TOMCAT ON UBUNTU
+				CONFIGURE TOMCAT WITH JENKINS MASTER
+				CREATE PIPELINE FOR QA AND START THE JOB 
+				BUILD TIGGER SCHEDULING 
+09-01-2024 ---- JENKINS ( Build triggers -Build Periodic
+				  Github webhook , Poll scm )
+				  Email Notiications, 
+				  Continuous delivery and deployment pipeline
+				  
+10-01-2024 -- ##Mentoring##
+11-01-2024 ---Docker,Container [ Vms vs Server ] [ Computer vs Virtual ]
+				Cretaion of docker and login and install docker and 
+				Docker ClI commands
+				
+12-01-2024 ---Docker[Mode of container execution
+				Start / stop cointainer 
+				Port mapping /Binding
+				cointainer volume
+
 15-01-2024----Docker (Created User defined images: Docker commit , Docker build )
               Dockerfile Instructions and how to send to dockerhub repository
               Overview of Docker compose and docker swarm
