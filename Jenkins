@@ -1,0 +1,28 @@
+ /d/STARAGILE/Java_projects/jcapp
+ 
+ #jenkins path
+  cd /usr/lib/systemd/system
+  change port 
+  ls -l *jenkins.service
+  sudo vi jenkins.service
+  change port from 8080 to 8181
+  
+  
+  * after changed port need to add inbound rule in aws
+  
+  #after jenkins opened 
+  cat /var/lib/jenkins/secrets/initialAdminPassword
+  
+  #install suggested plugins
+  Username : AWS
+  Password : Dhakshana@123
+  
+  *jenkins url : http://13.127.234.149:8181/
+  
+  c610e6d46f7a4b8391f3fa5e284d1f5d
+  ##jenkins1##
+  dhakshana1197----Username
+  Dhakshana --NAME
+  http://13.126.97.212:8080/ ---URl
+  
+  user1 ##new user
